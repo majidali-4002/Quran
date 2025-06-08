@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #222;
+}
+.card{
+    width: 90%;
+    max-width: 400px;
+    align-items: center;
+    border-radius: 35px;
+    background:linear-gradient(120deg,#00feba,#5b548a);
+    margin: 250px auto ;
+    padding: 20px 20px;
+    text-align: center;
+
+    
+}
